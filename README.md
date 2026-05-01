@@ -1,7 +1,9 @@
-```
+
 🚀 Google IDX VM Setup Guide
    🖥️ 1. Installing VM in Google IDX
 Google IDX: https://idx.google.com/
+
+bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/yt1/refs/heads/main/vps.sh
 
 Sign up on Google IDX.
 ▶️ VM Setup Command
@@ -10,6 +12,7 @@ Sign up on Google IDX.
 Run the installer script:
 
  bash <(curl -s https://ptero.jishnu.site) 
+ 
 ☁️ 3. Cloudflare Setup
 Sign up on Cloudflare for DNS & SSL setup: https://dash.cloudflare.com/
 
@@ -17,8 +20,6 @@ Sign up on Cloudflare for DNS & SSL setup: https://dash.cloudflare.com/
 Your Google IDX VM + Pterodactyl Panel is now installed.
 
 Credit all these guys!:
-
-HopingBoiyz
 Jishnu
-NotGamerPie
+RRS PLAYZ
 Thanks!
