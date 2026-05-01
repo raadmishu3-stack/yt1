@@ -2,12 +2,12 @@
 
 **Repository URL:**
  ```
-bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/yt1/refs/heads/main/vps.sh)
+https://github.com/jishnudiscord14-droid/vps123
  ```
 
 **Sign up on Google IDX. :arrow_forward: VM Setup Command**
  ```
-https://github.com/jishnudiscord14-droid/vps123
+bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/yt1/refs/heads/main/vps.sh)
  ```
 
 **:bird: 2. Installing Pterodactyl Panel in Google IDX Run the installer script:**
