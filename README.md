@@ -13,7 +13,7 @@ bash <(curl -s https://ptero.jishnu.site)
 :tada: Setup Completed Successfully! Your Google IDX VM + Pterodactyl Panel is now installed.
 
 Credit all these guys!: 
-Jishnu 
+ Jishnu 
 
 RRS PLAYZ 
 
