@@ -1,5 +1,5 @@
 🚀 Google IDX VM Setup Guide
-🖥️ 1. Installing VM in Google IDX
+   🖥️ 1. Installing VM in Google IDX
 Google IDX: https://idx.google.com/
 
 Sign up on Google IDX.
