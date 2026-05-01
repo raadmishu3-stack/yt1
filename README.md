@@ -1,6 +1,6 @@
 **:rocket: Google IDX VM Setup Guide :desktop: 1. Installing VM in Google IDX Google IDX: https://idx.google.com/
 
-bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/yt1/refs/heads/main/vps.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/yt1/refs/heads/main/vps.sh)
 
 Sign up on Google IDX. :arrow_forward: VM Setup Command
 
