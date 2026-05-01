@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # =============================
-# Enhanced Multi-VM Manager
+# RRSOFFICIALS
 # =============================
 
 # Function to display header
