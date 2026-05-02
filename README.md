@@ -19,7 +19,7 @@ bash <(curl -s https://ptero.jishnu.site)
 **OR MY**
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/rrsplayz/refs/heads/main/vps.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/rrsplayz/refs/heads/main/vps.sh)
 ```
 
 **:cloud: 3. Cloudflare Setup Sign up on Cloudflare for DNS & SSL setup:** https://dash.cloudflare.com/
