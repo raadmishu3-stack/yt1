@@ -30,7 +30,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/rrsplayz/re
 4. **Docker install**
 
 ```
-docker run -d --name proxmox8 --privileged -p 6080:6080 -p 8006:8006 -p 2026:2222 -p 5900:5900 -e VNC_USERNAME=rrsa -e VNC_PASSWORD=rrs943 -e RAM=17384 -e CPU=7 -e DISK_SIZE=2024G -v /proxmox8:/proxmox8 -v proxmox-logs:/logs --restart unless-stopped RRSOFFICIALS/proxmox8
+
 ```
 
 5. **pinggy link :** https://pinggy.io/
@@ -40,7 +40,5 @@ docker run -d --name proxmox8 --privileged -p 6080:6080 -p 8006:8006 -p 2026:222
  **Jishnu**
 
 **RRS PLAYZ**
-
-**Hoppingboyz**
 
 **Thanks!**
