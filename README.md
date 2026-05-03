@@ -5,12 +5,12 @@
 https://github.com/jishnudiscord14-droid/vps123
  ```
 
-**Sign up on Google IDX. :arrow_forward: VM Setup Command**
+**Sign up on Google IDX.  VM Setup Command**
  ```
 bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/yt1/refs/heads/main/vps.sh)
  ```
 
-**:bird: 2. Installing Pterodactyl Panel in Google IDX Run the installer script:**
+** 2. Installing Pterodactyl Panel in Google IDX Run the installer script:**
 
  ```
 bash <(curl -s https://ptero.jishnu.site)
@@ -22,10 +22,10 @@ bash <(curl -s https://ptero.jishnu.site)
 bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/rrsplayz/refs/heads/main/vps.sh)
 ```
 
-**:cloud: 3. Cloudflare Setup Sign up on Cloudflare for DNS & SSL setup:** https://dash.cloudflare.com/
+** 3. Cloudflare Setup Sign up on Cloudflare for DNS & SSL setup:** https://dash.cloudflare.com/
 
 
-**:tada: Setup Completed Successfully! Your Google IDX VM + Pterodactyl Panel is now installed.**
+** Setup Completed Successfully! Your Google IDX VM + Pterodactyl Panel is now installed.**
 
 4. **Docker install**
 
