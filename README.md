@@ -27,7 +27,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/rrsplayz/re
 
 ** Setup Completed Successfully! Your Google IDX VM + Pterodactyl Panel is now installed.**
 
-4. **Docker install**
+4. **Docker install Command**
 
 ```
 
