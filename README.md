@@ -1,44 +1,38 @@
-**rocket: Google IDX VM Setup Guide :desktop: 1. Installing VM in Google IDX Google IDX:** https://idx.google.com/
 
-**Repository URL:**
- ```
-https://github.com/jishnudiscord14-droid/vps123
- ```
+🖥️ 1. Google IDX VM Setup
+👉 Google IDX: https://idx.google.com/⁠�
+📦 Repository
 
-**Sign up on Google IDX.  VM Setup Command**
- ```
+https://github.com/raadmishu3-stack/rrsofficials_
+⚙️ VM Setup Command
+Bash
 bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/yt1/refs/heads/main/vps.sh)
- ```
-
-** 2. Installing Pterodactyl Panel in Google IDX Run the installer script:**
-
- ```
+⚙️ 2. Pterodactyl Panel Installation
+🔥 Method 1 (Official Script)
+Bash
 bash <(curl -s https://ptero.jishnu.site)
- ```
-
-**OR MY**
-
-```
+🔥 Method 2 (Alternative Script)
+Bash
 bash <(curl -fsSL https://raw.githubusercontent.com/raadmishu3-stack/rrsplayz/refs/heads/main/vps.sh)
-```
-
-** 3. Cloudflare Setup Sign up on Cloudflare for DNS & SSL setup:** https://dash.cloudflare.com/
-
-
-** Setup Completed Successfully! Your Google IDX VM + Pterodactyl Panel is now installed.**
-
-4. **Docker install Command**
-
-```
-
-```
-
-5. **pinggy link :** https://pinggy.io/
-
-**Credit all these guys!:** 
- 
- **Jishnu**
-
-**RRS PLAYZ**
-
-**Thanks!**
+🌍 3. Cloudflare Setup
+🔗 Cloudflare Dashboard: https://dash.cloudflare.com/⁠�
+✔️ DNS Setup
+✔️ SSL Configuration
+✔️ Domain Management
+🐳 4. Docker Installation
+Bash
+# Docker install command will be added here
+🌐 5. Pinggy Tunnel
+🔗 https://pinggy.io/⁠�
+✔️ Local server expose
+✔️ Testing & debugging
+🎉 Setup Complete
+✅ Google IDX VM Ready
+✅ Pterodactyl Panel Installed
+✅ Cloudflare Configured
+✅ Server Fully Operational
+🙏 Credits
+Jishnu
+RRS PLAYZ
+⭐ Support
+If you like this project, don’t forget to ⭐ star the repo!
