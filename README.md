@@ -1,6 +1,8 @@
   **⚙️RRSOFFICIALS**
-**🖥️ 1. Google IDX VM Setup
-👉 Google IDX:** https://idx.google.com/
+  
+**🖥️ 1. Google IDX VM Setup**
+
+**👉 Google IDX:** https://idx.google.com/
 ⁠
 **📦 Repository**
 
